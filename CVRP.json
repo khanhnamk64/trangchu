@@ -1,0 +1,28 @@
+{
+  "name": "VRP-20",
+  "numVehicles": 5,
+  "capacity": 50,
+  "depot": { "x": 0.0, "y": 0.0 },
+  "customers": [
+    { "id": 1,  "x": 2.5,  "y": 3.1,  "demand": 10, "label": "C01" },
+    { "id": 2,  "x": 5.0,  "y": 1.2,  "demand": 15, "label": "C02" },
+    { "id": 3,  "x": 7.3,  "y": 8.4,  "demand": 20, "label": "C03" },
+    { "id": 4,  "x": 1.1,  "y": 6.0,  "demand": 8,  "label": "C04" },
+    { "id": 5,  "x": 9.0,  "y": 2.5,  "demand": 12, "label": "C05" },
+    { "id": 6,  "x": 3.7,  "y": 9.2,  "demand": 18, "label": "C06" },
+    { "id": 7,  "x": 6.1,  "y": 4.8,  "demand": 9,  "label": "C07" },
+    { "id": 8,  "x": 8.5,  "y": 6.3,  "demand": 25, "label": "C08" },
+    { "id": 9,  "x": 4.4,  "y": 2.0,  "demand": 14, "label": "C09" },
+    { "id": 10, "x": 0.9,  "y": 8.7,  "demand": 7,  "label": "C10" },
+    { "id": 11, "x": 3.2,  "y": 1.5,  "demand": 11, "label": "C11" },
+    { "id": 12, "x": 6.8,  "y": 3.3,  "demand": 16, "label": "C12" },
+    { "id": 13, "x": 2.0,  "y": 7.5,  "demand": 13, "label": "C13" },
+    { "id": 14, "x": 8.1,  "y": 9.0,  "demand": 19, "label": "C14" },
+    { "id": 15, "x": 5.5,  "y": 6.0,  "demand": 22, "label": "C15" },
+    { "id": 16, "x": 1.8,  "y": 4.2,  "demand": 9,  "label": "C16" },
+    { "id": 17, "x": 7.0,  "y": 1.8,  "demand": 17, "label": "C17" },
+    { "id": 18, "x": 4.2,  "y": 5.5,  "demand": 8,  "label": "C18" },
+    { "id": 19, "x": 9.5,  "y": 7.2,  "demand": 14, "label": "C19" },
+    { "id": 20, "x": 0.5,  "y": 2.8,  "demand": 6,  "label": "C20" }
+  ]
+}
